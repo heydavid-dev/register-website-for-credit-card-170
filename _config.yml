@@ -16,10 +16,13 @@ services:
 - title: Services
 - description: Lorem ipsum dolor sit amet consectetur.
 - item: E-Commerce
+  icon: shopping-cart
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
 - item: Responsive Design
+  icon: laptop
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
 - item: Web Security
+  icon: lock
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
 
 # Team names, titles and social links
