@@ -12,6 +12,16 @@ description: "Write an awesome description for your new site here. You can edit 
 team:
 - title: Our Amazing Team
 
+services:
+- title: Services
+- description: Lorem ipsum dolor sit amet consectetur.
+- item: E-Commerce
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+- item: Responsive Design
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+- item: Web Security
+  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+
 # Team names, titles and social links
 people:
 - name: Kay Garland
